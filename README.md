@@ -19,27 +19,27 @@ El objetivo es mostrar mi aprendizaje práctico en **infraestructura, seguridad,
    - Crear una política de alertas
    - Crear un panel y un gráfico
    - Consultar los registros
-   👉 [Ver documentación](labs/compute-engine-qwikstart/README.md)
+   👉 [Ver documentación](labs/cloud-monitoring/README.md)
 
 3. **Configura balanceadores de carga de red**  
    - Crear varias instancias de servidor wev
    - Configurar el servicio de balanceo de cargas
    - Crear el grupo de destino y regla de reenvío
    - Enviar tráfico a las instancias
-   👉 [Ver documentación](labs/cloud-run-nodejs/README.md)
+   👉 [Ver documentación](labs/configura-balanceadores-de-carga-de-red/README.md)
 
 4. **Configura balanceadores de cargas de aplicaciones**  
    - Crear varias instancias de servicor web
    - Crear un balanceador de cargas de aplicaciones
    - Probar el tráfico enviado a las instancias
-   👉 [Ver documentación](labs/bigquery-qwikstart/README.md)
+   👉 [Ver documentación](labs/configura-balanceadores-de-cargas-de-aplicaciones/README.md)
 
 5. **Usar un balanceador de cargas de aplicaciones internas**  
    - Crear un entorno virtual
    - Crear un grupo administrado de backend
    - Configurar el balanceador de cargas interno
    - Probar el balanceador de cargas
-   👉 [Ver documentación](labs/iam-security-basics/README.md)
+   👉 [Ver documentación](labs/usar-un-balanceador-de-cargas-de-aplicaciones-internas/README.md)
 
 6. **Cloud Storage - CLI/SDK**
    - Crear un bucket
