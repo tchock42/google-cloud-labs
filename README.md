@@ -11,7 +11,7 @@ El objetivo es mostrar mi aprendizaje práctico en **infraestructura, seguridad,
    - Crear instancia de MySQL en Cloud SQL  
    - Conexión desde Cloud Shell  
    - Operaciones básicas de SQL  
-   👉 [Ver documentación](cloud-sql-mysql-qwikstart/README.md)
+   👉 [Ver documentación](cloud-sql-mysql/README.md)
 
 2. **Cloud Monitoring**
    - Crear una instnacia de Compute Engine
