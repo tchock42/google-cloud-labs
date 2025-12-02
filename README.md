@@ -51,24 +51,24 @@ El objetivo es mostrar mi aprendizaje práctico en **infraestructura, seguridad,
     - Probar la funcón
     👉 [Ver documentación](cloud-run-function-linea-de-comandos/README.md)
 
-8. Pub/Sub - Python
+8. **Pub/Sub - Python**
     - Configurar Pub/Sub
     - Crear una suscripción y publicar un mensaje en el topic
     👉 [Ver documentación](pub-sub-python/README.md)
 
-9. Proteger máquinas virtuales con Chrome Enterprise Premium
+9. **Proteger máquinas virtuales con Chrome Enterprise Premium**
     - Habilitar el reenvío de TCP de IAP
     - Probar conectividad de instancias de linux y windows
     - Configurar reglas de firewall para BCE
     - Otorgar permisos para usar el reenvío de TCP en IAP y progar la tunelización mediante SSH y RDP
     👉 [Ver documentación](protege-maquinas-virtuales-con-chrome-enterprise-premium/README.md)
 
-10. Redes VPC: Control de acceso
+10. **Redes VPC: Control de acceso**
     - Crear servidores de red VPC y controlar acceso HTTP externo a los servidores a través de reglas de firewall etiquetadas
     - Explorar roles de IAM y cuentas de servicio
     👉 [Ver documentación](redes-de-vpc-como%20controlar-acceso/README.md)
       
-11. Balanceadores de cargas de aplicaciones con Cloud Armor
+11. **Balanceadores de cargas de aplicaciones con Cloud Armor**
     - Crear reglas de firewall de HTTP y de verificación de estado
     - Configurar dos plantillas de instancias y dos grupos de instancias administrados
     - Configurar un balanceador de cargas de aplicaciones con IPv4 e IPv6
@@ -76,21 +76,37 @@ El objetivo es mostrar mi aprendizaje práctico en **infraestructura, seguridad,
     - Agregar una dirección IP a la lista de bloqueo para restringir el acceso a un balanceador de cargas de aplicaciones
     👉 [Ver documentación](cloud-armor/README.md)
 
-12. Dataproc: Qwik Start (Consola)
+12. **Dataproc: Qwik Start (Consola)**
     - Crear un cluster de Dataproc
     - Ejecutar un job de ejemplo y administrar el ciclo de vida del cluster
     👉 [Ver documentación](dataproc-consola/README.md)
 
-13. Lab GSP191 - Dataflow: Qwik Start (plantillas)
+13. **Lab GSP191 - Dataflow: Qwik Start (plantillas)**
     - Seleccionar plantillas de gcloud y ejecutar un job
     - Verificar el estado del pipeline y ver sus resultados
    👉 [Ver documentación](dataflow-plantillas/README.md)
       
-14. Dataflow - Python
+14. **Dataflow - Python**
     - Crear un bucket de Cloud Storage para almacenar los resultados de una canalización de Dataflow
     - Instalar el SDK de Apache Beam para Python
     - Ejecutar una canalización de Dataflow de forma remota
     👉 [Ver documentación](dataflow-python/README.md)
+
+15. **API de Cloud Natural Language: Qwik Start**
+    - Crear una clave de API
+    - Usar la API de Cloud Natural Language para extraer “entidades” (p. ej., personas, lugares y eventos) de un fragmento de texto
+    👉 [Ver documentación](api-de-cloud-natural-language/README.md)
+
+16. **API de Speech-to-Text: Qwik Start**
+    - Crear una clave de API
+    - Crear una solicitud a la API de Speech-to-Text
+    - Llamar a la API de Speech-to-Text
+    👉 [Ver documentación](api-de-speech-to-text/README.md)
+
+17. **Video Intelligence API: Qwik Start**
+    - Configurar la autorización de una cuenta de servicio personalizada
+    - Enviar una solicitud para anotar un video a la API de Video Intelligence
+    👉 [Ver documentación](video-intelligence-api/README.md)
 ---
 
 ## 🚀 Cómo usar este repositorio
