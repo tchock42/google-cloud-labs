@@ -26,13 +26,13 @@ El objetivo es mostrar mi aprendizaje práctico en **infraestructura, seguridad,
    - Configurar el servicio de balanceo de cargas
    - Crear el grupo de destino y regla de reenvío
    - Enviar tráfico a las instancias
-   👉 [Ver documentación](configura-balanceadores-de-carga-de-red/README.md)
+   👉 [Ver documentación](configura-balanceadores-de-cargas-de-red/README.md)
 
 4. **Configura balanceadores de cargas de aplicaciones**  
    - Crear varias instancias de servicor web
    - Crear un balanceador de cargas de aplicaciones
    - Probar el tráfico enviado a las instancias
-   👉 [Ver documentación](configura-balanceadores-de-cargas-de-aplicaciones/README.md)
+   👉 [Ver documentación](configurar-balanceador-de-cargas-de-aplicaciones/README.md)
 
 5. **Usar un balanceador de cargas de aplicaciones internas**  
    - Crear un entorno virtual
@@ -44,7 +44,7 @@ El objetivo es mostrar mi aprendizaje práctico en **infraestructura, seguridad,
 6. **Cloud Storage - CLI/SDK**
    - Crear un bucket
    - Subir, descargar, copiar y mostrar objetos del bucket
-   👉 [Ver documentación](cloud-storage-cli-dsk/README.md)
+   👉 [Ver documentación](cloud-storage-cli-sdk/README.md)
 
 7. **Cloud Run Function - Línea de comandos
     - Crear una función e implementarla
@@ -66,7 +66,7 @@ El objetivo es mostrar mi aprendizaje práctico en **infraestructura, seguridad,
 10. Redes VPC: Control de acceso
     - Crear servidores de red VPC y controlar acceso HTTP externo a los servidores a través de reglas de firewall etiquetadas
     - Explorar roles de IAM y cuentas de servicio
-    👉 [Ver documentación](redes-de-vpc-como-controlar-acceso/README.md)
+    👉 [Ver documentación](redes-de-vpc-como%20controlar-acceso/README.md)
       
 11. Balanceadores de cargas de aplicaciones con Cloud Armor
     - Crear reglas de firewall de HTTP y de verificación de estado
@@ -91,13 +91,6 @@ El objetivo es mostrar mi aprendizaje práctico en **infraestructura, seguridad,
     - Instalar el SDK de Apache Beam para Python
     - Ejecutar una canalización de Dataflow de forma remota
     👉 [Ver documentación](dataflow-python/README.md)
-      
-13. Prepara datos para las API's de AA
-  - Ejecutar un trabajo simple de Dataflow
-  - Ejecutar un trabajo simple de Dataproc
-  - Usar la API de Google Cloud Speech-To-Text
-  - Usar la API de Cloud Natural Language
-  👉 [Ver documentación](labs/prepara-datos-para-las-apis-de-aa/README.md)
 ---
 
 ## 🚀 Cómo usar este repositorio
