@@ -121,11 +121,11 @@ El objetivo es mostrar mi aprendizaje práctico en **infraestructura, seguridad,
 ---
 
 ## 🚀 Cómo usar este repositorio
-- Cada carpeta dentro de `labs/` contiene un **README.md** con:
+- Cada carpeta dentro del repositorio contiene un **README.md** con:
   - Objetivo del lab  
   - Pasos principales  
   - Buenas prácticas aplicadas  
-  - Resultado y reflexión  
+  - Resultado y conclusión  
 
 ---
 
