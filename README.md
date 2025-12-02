@@ -81,7 +81,7 @@ El objetivo es mostrar mi aprendizaje práctico en **infraestructura, seguridad,
     - Ejecutar un job de ejemplo y administrar el ciclo de vida del cluster
     👉 [Ver documentación](dataproc-consola/README.md)
 
-13. **Lab GSP191 - Dataflow: Qwik Start (plantillas)**
+13. **Dataflow: Qwik Start (plantillas)**
     - Seleccionar plantillas de gcloud y ejecutar un job
     - Verificar el estado del pipeline y ver sus resultados
    👉 [Ver documentación](dataflow-plantillas/README.md)
